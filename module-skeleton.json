@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-items-nuxt",
+  "capabilityKey": "liberusoftware/module-browser-game-items",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-browser-game-items-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/browser-game/nextjs/items.md",
+  "presentationPlan": "projects/browser-game/nuxt/items.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
